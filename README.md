@@ -5,7 +5,3 @@
 Склонируйте репозиторий: git clone https://github.com/VarvaraSam/finalProject.git
 
 Установите node.js и npm
-
-npm run build
-
-npm start
